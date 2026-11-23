@@ -24,8 +24,8 @@ Ensure you have **Python 3.7+** installed on your system.
 ### 1. Clone or Download the Project
 Save the script as `url_shortener_cli.py` in your working directory:
 ```bash
-git clone <your-repository-url>
-cd <your-project-folder>
+git clone https://github.com/Cyber-Squad-CST/Url-Short.git
+cd Url-Short
 ```
 
 ### 2. Install Required Libraries
@@ -71,9 +71,9 @@ python url_shortener_cli.py
 
 ## 👨‍💻 Developer Information
 
-- **Developer:** *[Your Name / Handle]*
+- **Developer:** *[MD IMRAN HOSSEN / Handle]*
 - **Role:** Python & CLI Tool Developer
-- **GitHub:** *[https://github.com/yourusername]*
-- **Contact / Portfolio:** *[your.email@example.com]*
+- **GitHub:** *[https://github.com/Cyber-Squad-CST]*
+- **Contact / Portfolio:** *[srimran122334@gmail.com]*
 
 > *Built with passion for clean command-line utilities. Feel free to fork, customize, and contribute!*
